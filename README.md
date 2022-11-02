@@ -1,2 +1,2 @@
 # qw
-https://github.com/yar1290/qw
+https://yar1290.github.io/qw/
